@@ -1,4 +1,4 @@
----
+* ---
 id: o39p08y92teu1zgx1y4lx47
 title: HTML
 desc: ''
@@ -90,4 +90,20 @@ created: 1657957133184
     <input type ="text" />
 </form>
 
+```
+# Meta Tags
+> Search engines use this to show up search results
+
+> All meta data reside in `<head>`
+
+```html
+<head>
+    <meta chartset="utf-8" />
+    <!--- To adjust for mobile devices --->
+    <meta name="viewport" content="width=device-width, intial-scale=1 /">
+    <!--- Description to be find by SE --->
+    <meta name="description" content="content has to be short MAX(160) /">
+    <!-- We can define a base url which defines where the subsequent links in the page will be based off of--->
+    <base href="http://yoursite.com" />
+</head>
 ```
