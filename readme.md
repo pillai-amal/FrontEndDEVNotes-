@@ -2,4 +2,4 @@ Check root.md for root file.
 
 
 Use [dendron](https://www.dendron.so/) for opening up the notes. 
-Or [Obsidian)(https://obsidian.md/)
+Or [Obsidian](https://obsidian.md/)
